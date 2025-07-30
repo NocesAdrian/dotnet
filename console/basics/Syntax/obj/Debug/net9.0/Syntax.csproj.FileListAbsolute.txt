@@ -1,0 +1,14 @@
+/home/angelica/c#_console/basics/Syntax/bin/Debug/net9.0/Syntax
+/home/angelica/c#_console/basics/Syntax/bin/Debug/net9.0/Syntax.deps.json
+/home/angelica/c#_console/basics/Syntax/bin/Debug/net9.0/Syntax.runtimeconfig.json
+/home/angelica/c#_console/basics/Syntax/bin/Debug/net9.0/Syntax.dll
+/home/angelica/c#_console/basics/Syntax/bin/Debug/net9.0/Syntax.pdb
+/home/angelica/c#_console/basics/Syntax/obj/Debug/net9.0/Syntax.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/basics/Syntax/obj/Debug/net9.0/Syntax.AssemblyInfoInputs.cache
+/home/angelica/c#_console/basics/Syntax/obj/Debug/net9.0/Syntax.AssemblyInfo.cs
+/home/angelica/c#_console/basics/Syntax/obj/Debug/net9.0/Syntax.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/basics/Syntax/obj/Debug/net9.0/Syntax.dll
+/home/angelica/c#_console/basics/Syntax/obj/Debug/net9.0/refint/Syntax.dll
+/home/angelica/c#_console/basics/Syntax/obj/Debug/net9.0/Syntax.pdb
+/home/angelica/c#_console/basics/Syntax/obj/Debug/net9.0/Syntax.genruntimeconfig.cache
+/home/angelica/c#_console/basics/Syntax/obj/Debug/net9.0/ref/Syntax.dll

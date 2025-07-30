@@ -1,0 +1,14 @@
+/home/angelica/Documents/csharp/basics/typecasting/obj/Debug/net9.0/typecasting.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/Documents/csharp/basics/typecasting/obj/Debug/net9.0/typecasting.AssemblyInfoInputs.cache
+/home/angelica/Documents/csharp/basics/typecasting/obj/Debug/net9.0/typecasting.AssemblyInfo.cs
+/home/angelica/Documents/csharp/basics/typecasting/obj/Debug/net9.0/typecasting.csproj.CoreCompileInputs.cache
+/home/angelica/Documents/csharp/basics/typecasting/bin/Debug/net9.0/typecasting
+/home/angelica/Documents/csharp/basics/typecasting/bin/Debug/net9.0/typecasting.deps.json
+/home/angelica/Documents/csharp/basics/typecasting/bin/Debug/net9.0/typecasting.runtimeconfig.json
+/home/angelica/Documents/csharp/basics/typecasting/bin/Debug/net9.0/typecasting.dll
+/home/angelica/Documents/csharp/basics/typecasting/bin/Debug/net9.0/typecasting.pdb
+/home/angelica/Documents/csharp/basics/typecasting/obj/Debug/net9.0/typecasting.dll
+/home/angelica/Documents/csharp/basics/typecasting/obj/Debug/net9.0/refint/typecasting.dll
+/home/angelica/Documents/csharp/basics/typecasting/obj/Debug/net9.0/typecasting.pdb
+/home/angelica/Documents/csharp/basics/typecasting/obj/Debug/net9.0/typecasting.genruntimeconfig.cache
+/home/angelica/Documents/csharp/basics/typecasting/obj/Debug/net9.0/ref/typecasting.dll

@@ -1,0 +1,14 @@
+/home/angelica/c#_console/basics/switch/bin/Debug/net9.0/switch
+/home/angelica/c#_console/basics/switch/bin/Debug/net9.0/switch.deps.json
+/home/angelica/c#_console/basics/switch/bin/Debug/net9.0/switch.runtimeconfig.json
+/home/angelica/c#_console/basics/switch/bin/Debug/net9.0/switch.dll
+/home/angelica/c#_console/basics/switch/bin/Debug/net9.0/switch.pdb
+/home/angelica/c#_console/basics/switch/obj/Debug/net9.0/switch.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/basics/switch/obj/Debug/net9.0/switch.AssemblyInfoInputs.cache
+/home/angelica/c#_console/basics/switch/obj/Debug/net9.0/switch.AssemblyInfo.cs
+/home/angelica/c#_console/basics/switch/obj/Debug/net9.0/switch.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/basics/switch/obj/Debug/net9.0/switch.dll
+/home/angelica/c#_console/basics/switch/obj/Debug/net9.0/refint/switch.dll
+/home/angelica/c#_console/basics/switch/obj/Debug/net9.0/switch.pdb
+/home/angelica/c#_console/basics/switch/obj/Debug/net9.0/switch.genruntimeconfig.cache
+/home/angelica/c#_console/basics/switch/obj/Debug/net9.0/ref/switch.dll

@@ -1,0 +1,14 @@
+/home/angelica/c#_console/basics/arrays/obj/Debug/net9.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/basics/arrays/obj/Debug/net9.0/arrays.AssemblyInfoInputs.cache
+/home/angelica/c#_console/basics/arrays/obj/Debug/net9.0/arrays.AssemblyInfo.cs
+/home/angelica/c#_console/basics/arrays/obj/Debug/net9.0/arrays.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/basics/arrays/bin/Debug/net9.0/arrays
+/home/angelica/c#_console/basics/arrays/bin/Debug/net9.0/arrays.deps.json
+/home/angelica/c#_console/basics/arrays/bin/Debug/net9.0/arrays.runtimeconfig.json
+/home/angelica/c#_console/basics/arrays/bin/Debug/net9.0/arrays.dll
+/home/angelica/c#_console/basics/arrays/bin/Debug/net9.0/arrays.pdb
+/home/angelica/c#_console/basics/arrays/obj/Debug/net9.0/arrays.dll
+/home/angelica/c#_console/basics/arrays/obj/Debug/net9.0/refint/arrays.dll
+/home/angelica/c#_console/basics/arrays/obj/Debug/net9.0/arrays.pdb
+/home/angelica/c#_console/basics/arrays/obj/Debug/net9.0/arrays.genruntimeconfig.cache
+/home/angelica/c#_console/basics/arrays/obj/Debug/net9.0/ref/arrays.dll

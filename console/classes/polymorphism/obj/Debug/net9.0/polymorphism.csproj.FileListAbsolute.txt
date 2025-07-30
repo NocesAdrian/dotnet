@@ -1,0 +1,14 @@
+/home/angelica/c#_console/classes/polymorphism/obj/Debug/net9.0/polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/classes/polymorphism/obj/Debug/net9.0/polymorphism.AssemblyInfoInputs.cache
+/home/angelica/c#_console/classes/polymorphism/obj/Debug/net9.0/polymorphism.AssemblyInfo.cs
+/home/angelica/c#_console/classes/polymorphism/obj/Debug/net9.0/polymorphism.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/classes/polymorphism/bin/Debug/net9.0/polymorphism
+/home/angelica/c#_console/classes/polymorphism/bin/Debug/net9.0/polymorphism.deps.json
+/home/angelica/c#_console/classes/polymorphism/bin/Debug/net9.0/polymorphism.runtimeconfig.json
+/home/angelica/c#_console/classes/polymorphism/bin/Debug/net9.0/polymorphism.dll
+/home/angelica/c#_console/classes/polymorphism/bin/Debug/net9.0/polymorphism.pdb
+/home/angelica/c#_console/classes/polymorphism/obj/Debug/net9.0/polymorphism.dll
+/home/angelica/c#_console/classes/polymorphism/obj/Debug/net9.0/refint/polymorphism.dll
+/home/angelica/c#_console/classes/polymorphism/obj/Debug/net9.0/polymorphism.pdb
+/home/angelica/c#_console/classes/polymorphism/obj/Debug/net9.0/polymorphism.genruntimeconfig.cache
+/home/angelica/c#_console/classes/polymorphism/obj/Debug/net9.0/ref/polymorphism.dll

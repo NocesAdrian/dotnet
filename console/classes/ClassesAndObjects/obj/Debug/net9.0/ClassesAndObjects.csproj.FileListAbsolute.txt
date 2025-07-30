@@ -1,0 +1,14 @@
+/home/angelica/c#_console/classes/ClassesAndObjects/obj/Debug/net9.0/ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/classes/ClassesAndObjects/obj/Debug/net9.0/ClassesAndObjects.AssemblyInfoInputs.cache
+/home/angelica/c#_console/classes/ClassesAndObjects/obj/Debug/net9.0/ClassesAndObjects.AssemblyInfo.cs
+/home/angelica/c#_console/classes/ClassesAndObjects/obj/Debug/net9.0/ClassesAndObjects.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/classes/ClassesAndObjects/bin/Debug/net9.0/ClassesAndObjects
+/home/angelica/c#_console/classes/ClassesAndObjects/bin/Debug/net9.0/ClassesAndObjects.deps.json
+/home/angelica/c#_console/classes/ClassesAndObjects/bin/Debug/net9.0/ClassesAndObjects.runtimeconfig.json
+/home/angelica/c#_console/classes/ClassesAndObjects/bin/Debug/net9.0/ClassesAndObjects.dll
+/home/angelica/c#_console/classes/ClassesAndObjects/bin/Debug/net9.0/ClassesAndObjects.pdb
+/home/angelica/c#_console/classes/ClassesAndObjects/obj/Debug/net9.0/ClassesAndObjects.dll
+/home/angelica/c#_console/classes/ClassesAndObjects/obj/Debug/net9.0/refint/ClassesAndObjects.dll
+/home/angelica/c#_console/classes/ClassesAndObjects/obj/Debug/net9.0/ClassesAndObjects.pdb
+/home/angelica/c#_console/classes/ClassesAndObjects/obj/Debug/net9.0/ClassesAndObjects.genruntimeconfig.cache
+/home/angelica/c#_console/classes/ClassesAndObjects/obj/Debug/net9.0/ref/ClassesAndObjects.dll

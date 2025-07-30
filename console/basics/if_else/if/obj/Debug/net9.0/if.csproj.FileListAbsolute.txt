@@ -1,0 +1,14 @@
+/home/angelica/c#_console/basics/if_else/if/bin/Debug/net9.0/if
+/home/angelica/c#_console/basics/if_else/if/bin/Debug/net9.0/if.deps.json
+/home/angelica/c#_console/basics/if_else/if/bin/Debug/net9.0/if.runtimeconfig.json
+/home/angelica/c#_console/basics/if_else/if/bin/Debug/net9.0/if.dll
+/home/angelica/c#_console/basics/if_else/if/bin/Debug/net9.0/if.pdb
+/home/angelica/c#_console/basics/if_else/if/obj/Debug/net9.0/if.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/basics/if_else/if/obj/Debug/net9.0/if.AssemblyInfoInputs.cache
+/home/angelica/c#_console/basics/if_else/if/obj/Debug/net9.0/if.AssemblyInfo.cs
+/home/angelica/c#_console/basics/if_else/if/obj/Debug/net9.0/if.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/basics/if_else/if/obj/Debug/net9.0/if.dll
+/home/angelica/c#_console/basics/if_else/if/obj/Debug/net9.0/refint/if.dll
+/home/angelica/c#_console/basics/if_else/if/obj/Debug/net9.0/if.pdb
+/home/angelica/c#_console/basics/if_else/if/obj/Debug/net9.0/if.genruntimeconfig.cache
+/home/angelica/c#_console/basics/if_else/if/obj/Debug/net9.0/ref/if.dll

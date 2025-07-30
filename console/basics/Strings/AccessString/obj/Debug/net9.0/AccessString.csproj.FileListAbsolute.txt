@@ -1,0 +1,14 @@
+/home/angelica/c#_console/basics/Strings/AccessString/bin/Debug/net9.0/AccessString
+/home/angelica/c#_console/basics/Strings/AccessString/bin/Debug/net9.0/AccessString.deps.json
+/home/angelica/c#_console/basics/Strings/AccessString/bin/Debug/net9.0/AccessString.runtimeconfig.json
+/home/angelica/c#_console/basics/Strings/AccessString/bin/Debug/net9.0/AccessString.dll
+/home/angelica/c#_console/basics/Strings/AccessString/bin/Debug/net9.0/AccessString.pdb
+/home/angelica/c#_console/basics/Strings/AccessString/obj/Debug/net9.0/AccessString.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/basics/Strings/AccessString/obj/Debug/net9.0/AccessString.AssemblyInfoInputs.cache
+/home/angelica/c#_console/basics/Strings/AccessString/obj/Debug/net9.0/AccessString.AssemblyInfo.cs
+/home/angelica/c#_console/basics/Strings/AccessString/obj/Debug/net9.0/AccessString.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/basics/Strings/AccessString/obj/Debug/net9.0/AccessString.dll
+/home/angelica/c#_console/basics/Strings/AccessString/obj/Debug/net9.0/refint/AccessString.dll
+/home/angelica/c#_console/basics/Strings/AccessString/obj/Debug/net9.0/AccessString.pdb
+/home/angelica/c#_console/basics/Strings/AccessString/obj/Debug/net9.0/AccessString.genruntimeconfig.cache
+/home/angelica/c#_console/basics/Strings/AccessString/obj/Debug/net9.0/ref/AccessString.dll

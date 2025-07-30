@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9uFkNto7U+w=",
+  "success": true,
+  "projectFilePath": "/home/angelica/c#_console/methods/callMethodInsideMainMethod/callMethodInsideMainMethod.csproj",
+  "expectedPackageFiles": [
+    "/home/angelica/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.5/microsoft.aspnetcore.app.ref.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/home/angelica/c#_console/basics/break_continue/bin/Debug/net9.0/break_continue
+/home/angelica/c#_console/basics/break_continue/bin/Debug/net9.0/break_continue.deps.json
+/home/angelica/c#_console/basics/break_continue/bin/Debug/net9.0/break_continue.runtimeconfig.json
+/home/angelica/c#_console/basics/break_continue/bin/Debug/net9.0/break_continue.dll
+/home/angelica/c#_console/basics/break_continue/bin/Debug/net9.0/break_continue.pdb
+/home/angelica/c#_console/basics/break_continue/obj/Debug/net9.0/break_continue.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/basics/break_continue/obj/Debug/net9.0/break_continue.AssemblyInfoInputs.cache
+/home/angelica/c#_console/basics/break_continue/obj/Debug/net9.0/break_continue.AssemblyInfo.cs
+/home/angelica/c#_console/basics/break_continue/obj/Debug/net9.0/break_continue.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/basics/break_continue/obj/Debug/net9.0/break_continue.dll
+/home/angelica/c#_console/basics/break_continue/obj/Debug/net9.0/refint/break_continue.dll
+/home/angelica/c#_console/basics/break_continue/obj/Debug/net9.0/break_continue.pdb
+/home/angelica/c#_console/basics/break_continue/obj/Debug/net9.0/break_continue.genruntimeconfig.cache
+/home/angelica/c#_console/basics/break_continue/obj/Debug/net9.0/ref/break_continue.dll

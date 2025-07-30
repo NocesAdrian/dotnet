@@ -1,0 +1,14 @@
+/home/angelica/c#_console/methods/method_1/bin/Debug/net9.0/method_1
+/home/angelica/c#_console/methods/method_1/bin/Debug/net9.0/method_1.deps.json
+/home/angelica/c#_console/methods/method_1/bin/Debug/net9.0/method_1.runtimeconfig.json
+/home/angelica/c#_console/methods/method_1/bin/Debug/net9.0/method_1.dll
+/home/angelica/c#_console/methods/method_1/bin/Debug/net9.0/method_1.pdb
+/home/angelica/c#_console/methods/method_1/obj/Debug/net9.0/method_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/methods/method_1/obj/Debug/net9.0/method_1.AssemblyInfoInputs.cache
+/home/angelica/c#_console/methods/method_1/obj/Debug/net9.0/method_1.AssemblyInfo.cs
+/home/angelica/c#_console/methods/method_1/obj/Debug/net9.0/method_1.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/methods/method_1/obj/Debug/net9.0/method_1.dll
+/home/angelica/c#_console/methods/method_1/obj/Debug/net9.0/refint/method_1.dll
+/home/angelica/c#_console/methods/method_1/obj/Debug/net9.0/method_1.pdb
+/home/angelica/c#_console/methods/method_1/obj/Debug/net9.0/method_1.genruntimeconfig.cache
+/home/angelica/c#_console/methods/method_1/obj/Debug/net9.0/ref/method_1.dll

@@ -1,0 +1,14 @@
+/home/angelica/c#_console/basics/linq/obj/Debug/net9.0/linq.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/basics/linq/obj/Debug/net9.0/linq.AssemblyInfoInputs.cache
+/home/angelica/c#_console/basics/linq/obj/Debug/net9.0/linq.AssemblyInfo.cs
+/home/angelica/c#_console/basics/linq/obj/Debug/net9.0/linq.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/basics/linq/bin/Debug/net9.0/linq
+/home/angelica/c#_console/basics/linq/bin/Debug/net9.0/linq.deps.json
+/home/angelica/c#_console/basics/linq/bin/Debug/net9.0/linq.runtimeconfig.json
+/home/angelica/c#_console/basics/linq/bin/Debug/net9.0/linq.dll
+/home/angelica/c#_console/basics/linq/bin/Debug/net9.0/linq.pdb
+/home/angelica/c#_console/basics/linq/obj/Debug/net9.0/linq.dll
+/home/angelica/c#_console/basics/linq/obj/Debug/net9.0/refint/linq.dll
+/home/angelica/c#_console/basics/linq/obj/Debug/net9.0/linq.pdb
+/home/angelica/c#_console/basics/linq/obj/Debug/net9.0/linq.genruntimeconfig.cache
+/home/angelica/c#_console/basics/linq/obj/Debug/net9.0/ref/linq.dll

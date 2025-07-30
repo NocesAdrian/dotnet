@@ -1,0 +1,14 @@
+/home/angelica/c#_console/basics/whileLoop/obj/Debug/net9.0/whileLoop.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/basics/whileLoop/obj/Debug/net9.0/whileLoop.AssemblyInfoInputs.cache
+/home/angelica/c#_console/basics/whileLoop/obj/Debug/net9.0/whileLoop.AssemblyInfo.cs
+/home/angelica/c#_console/basics/whileLoop/obj/Debug/net9.0/whileLoop.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/basics/whileLoop/bin/Debug/net9.0/whileLoop
+/home/angelica/c#_console/basics/whileLoop/bin/Debug/net9.0/whileLoop.deps.json
+/home/angelica/c#_console/basics/whileLoop/bin/Debug/net9.0/whileLoop.runtimeconfig.json
+/home/angelica/c#_console/basics/whileLoop/bin/Debug/net9.0/whileLoop.dll
+/home/angelica/c#_console/basics/whileLoop/bin/Debug/net9.0/whileLoop.pdb
+/home/angelica/c#_console/basics/whileLoop/obj/Debug/net9.0/whileLoop.dll
+/home/angelica/c#_console/basics/whileLoop/obj/Debug/net9.0/refint/whileLoop.dll
+/home/angelica/c#_console/basics/whileLoop/obj/Debug/net9.0/whileLoop.pdb
+/home/angelica/c#_console/basics/whileLoop/obj/Debug/net9.0/whileLoop.genruntimeconfig.cache
+/home/angelica/c#_console/basics/whileLoop/obj/Debug/net9.0/ref/whileLoop.dll

@@ -1,0 +1,14 @@
+/home/angelica/c#_console/classes/WorkingWithDirectory/bin/Debug/net9.0/WorkingWithDirectory
+/home/angelica/c#_console/classes/WorkingWithDirectory/bin/Debug/net9.0/WorkingWithDirectory.deps.json
+/home/angelica/c#_console/classes/WorkingWithDirectory/bin/Debug/net9.0/WorkingWithDirectory.runtimeconfig.json
+/home/angelica/c#_console/classes/WorkingWithDirectory/bin/Debug/net9.0/WorkingWithDirectory.dll
+/home/angelica/c#_console/classes/WorkingWithDirectory/bin/Debug/net9.0/WorkingWithDirectory.pdb
+/home/angelica/c#_console/classes/WorkingWithDirectory/obj/Debug/net9.0/WorkingWithDirectory.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/classes/WorkingWithDirectory/obj/Debug/net9.0/WorkingWithDirectory.AssemblyInfoInputs.cache
+/home/angelica/c#_console/classes/WorkingWithDirectory/obj/Debug/net9.0/WorkingWithDirectory.AssemblyInfo.cs
+/home/angelica/c#_console/classes/WorkingWithDirectory/obj/Debug/net9.0/WorkingWithDirectory.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/classes/WorkingWithDirectory/obj/Debug/net9.0/WorkingWithDirectory.dll
+/home/angelica/c#_console/classes/WorkingWithDirectory/obj/Debug/net9.0/refint/WorkingWithDirectory.dll
+/home/angelica/c#_console/classes/WorkingWithDirectory/obj/Debug/net9.0/WorkingWithDirectory.pdb
+/home/angelica/c#_console/classes/WorkingWithDirectory/obj/Debug/net9.0/WorkingWithDirectory.genruntimeconfig.cache
+/home/angelica/c#_console/classes/WorkingWithDirectory/obj/Debug/net9.0/ref/WorkingWithDirectory.dll

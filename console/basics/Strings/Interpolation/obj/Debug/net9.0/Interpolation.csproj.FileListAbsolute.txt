@@ -1,0 +1,14 @@
+/home/angelica/c#_console/basics/Strings/Interpolation/bin/Debug/net9.0/Interpolation
+/home/angelica/c#_console/basics/Strings/Interpolation/bin/Debug/net9.0/Interpolation.deps.json
+/home/angelica/c#_console/basics/Strings/Interpolation/bin/Debug/net9.0/Interpolation.runtimeconfig.json
+/home/angelica/c#_console/basics/Strings/Interpolation/bin/Debug/net9.0/Interpolation.dll
+/home/angelica/c#_console/basics/Strings/Interpolation/bin/Debug/net9.0/Interpolation.pdb
+/home/angelica/c#_console/basics/Strings/Interpolation/obj/Debug/net9.0/Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/basics/Strings/Interpolation/obj/Debug/net9.0/Interpolation.AssemblyInfoInputs.cache
+/home/angelica/c#_console/basics/Strings/Interpolation/obj/Debug/net9.0/Interpolation.AssemblyInfo.cs
+/home/angelica/c#_console/basics/Strings/Interpolation/obj/Debug/net9.0/Interpolation.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/basics/Strings/Interpolation/obj/Debug/net9.0/Interpolation.dll
+/home/angelica/c#_console/basics/Strings/Interpolation/obj/Debug/net9.0/refint/Interpolation.dll
+/home/angelica/c#_console/basics/Strings/Interpolation/obj/Debug/net9.0/Interpolation.pdb
+/home/angelica/c#_console/basics/Strings/Interpolation/obj/Debug/net9.0/Interpolation.genruntimeconfig.cache
+/home/angelica/c#_console/basics/Strings/Interpolation/obj/Debug/net9.0/ref/Interpolation.dll

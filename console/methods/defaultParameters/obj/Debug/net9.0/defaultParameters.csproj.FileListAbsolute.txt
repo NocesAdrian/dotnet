@@ -1,0 +1,14 @@
+/home/angelica/c#_console/methods/defaultParameters/bin/Debug/net9.0/defaultParameters
+/home/angelica/c#_console/methods/defaultParameters/bin/Debug/net9.0/defaultParameters.deps.json
+/home/angelica/c#_console/methods/defaultParameters/bin/Debug/net9.0/defaultParameters.runtimeconfig.json
+/home/angelica/c#_console/methods/defaultParameters/bin/Debug/net9.0/defaultParameters.dll
+/home/angelica/c#_console/methods/defaultParameters/bin/Debug/net9.0/defaultParameters.pdb
+/home/angelica/c#_console/methods/defaultParameters/obj/Debug/net9.0/defaultParameters.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/methods/defaultParameters/obj/Debug/net9.0/defaultParameters.AssemblyInfoInputs.cache
+/home/angelica/c#_console/methods/defaultParameters/obj/Debug/net9.0/defaultParameters.AssemblyInfo.cs
+/home/angelica/c#_console/methods/defaultParameters/obj/Debug/net9.0/defaultParameters.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/methods/defaultParameters/obj/Debug/net9.0/defaultParameters.dll
+/home/angelica/c#_console/methods/defaultParameters/obj/Debug/net9.0/refint/defaultParameters.dll
+/home/angelica/c#_console/methods/defaultParameters/obj/Debug/net9.0/defaultParameters.pdb
+/home/angelica/c#_console/methods/defaultParameters/obj/Debug/net9.0/defaultParameters.genruntimeconfig.cache
+/home/angelica/c#_console/methods/defaultParameters/obj/Debug/net9.0/ref/defaultParameters.dll

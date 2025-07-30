@@ -1,0 +1,14 @@
+/home/angelica/c#_console/methods/callMethodInsideMainMethod/obj/Debug/net9.0/callMethodInsideMainMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/methods/callMethodInsideMainMethod/obj/Debug/net9.0/callMethodInsideMainMethod.AssemblyInfoInputs.cache
+/home/angelica/c#_console/methods/callMethodInsideMainMethod/obj/Debug/net9.0/callMethodInsideMainMethod.AssemblyInfo.cs
+/home/angelica/c#_console/methods/callMethodInsideMainMethod/obj/Debug/net9.0/callMethodInsideMainMethod.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/methods/callMethodInsideMainMethod/bin/Debug/net9.0/callMethodInsideMainMethod
+/home/angelica/c#_console/methods/callMethodInsideMainMethod/bin/Debug/net9.0/callMethodInsideMainMethod.deps.json
+/home/angelica/c#_console/methods/callMethodInsideMainMethod/bin/Debug/net9.0/callMethodInsideMainMethod.runtimeconfig.json
+/home/angelica/c#_console/methods/callMethodInsideMainMethod/bin/Debug/net9.0/callMethodInsideMainMethod.dll
+/home/angelica/c#_console/methods/callMethodInsideMainMethod/bin/Debug/net9.0/callMethodInsideMainMethod.pdb
+/home/angelica/c#_console/methods/callMethodInsideMainMethod/obj/Debug/net9.0/callMethodInsideMainMethod.dll
+/home/angelica/c#_console/methods/callMethodInsideMainMethod/obj/Debug/net9.0/refint/callMethodInsideMainMethod.dll
+/home/angelica/c#_console/methods/callMethodInsideMainMethod/obj/Debug/net9.0/callMethodInsideMainMethod.pdb
+/home/angelica/c#_console/methods/callMethodInsideMainMethod/obj/Debug/net9.0/callMethodInsideMainMethod.genruntimeconfig.cache
+/home/angelica/c#_console/methods/callMethodInsideMainMethod/obj/Debug/net9.0/ref/callMethodInsideMainMethod.dll

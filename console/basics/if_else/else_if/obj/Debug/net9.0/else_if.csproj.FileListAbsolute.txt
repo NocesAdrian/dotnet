@@ -1,0 +1,14 @@
+/home/angelica/c#_console/basics/if_else/else_if/obj/Debug/net9.0/else_if.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/basics/if_else/else_if/obj/Debug/net9.0/else_if.AssemblyInfoInputs.cache
+/home/angelica/c#_console/basics/if_else/else_if/obj/Debug/net9.0/else_if.AssemblyInfo.cs
+/home/angelica/c#_console/basics/if_else/else_if/obj/Debug/net9.0/else_if.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/basics/if_else/else_if/bin/Debug/net9.0/else_if
+/home/angelica/c#_console/basics/if_else/else_if/bin/Debug/net9.0/else_if.deps.json
+/home/angelica/c#_console/basics/if_else/else_if/bin/Debug/net9.0/else_if.runtimeconfig.json
+/home/angelica/c#_console/basics/if_else/else_if/bin/Debug/net9.0/else_if.dll
+/home/angelica/c#_console/basics/if_else/else_if/bin/Debug/net9.0/else_if.pdb
+/home/angelica/c#_console/basics/if_else/else_if/obj/Debug/net9.0/else_if.dll
+/home/angelica/c#_console/basics/if_else/else_if/obj/Debug/net9.0/refint/else_if.dll
+/home/angelica/c#_console/basics/if_else/else_if/obj/Debug/net9.0/else_if.pdb
+/home/angelica/c#_console/basics/if_else/else_if/obj/Debug/net9.0/else_if.genruntimeconfig.cache
+/home/angelica/c#_console/basics/if_else/else_if/obj/Debug/net9.0/ref/else_if.dll

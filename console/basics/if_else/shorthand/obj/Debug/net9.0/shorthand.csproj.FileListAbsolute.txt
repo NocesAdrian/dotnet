@@ -1,0 +1,14 @@
+/home/angelica/c#_console/basics/if_else/shorthand/bin/Debug/net9.0/shorthand
+/home/angelica/c#_console/basics/if_else/shorthand/bin/Debug/net9.0/shorthand.deps.json
+/home/angelica/c#_console/basics/if_else/shorthand/bin/Debug/net9.0/shorthand.runtimeconfig.json
+/home/angelica/c#_console/basics/if_else/shorthand/bin/Debug/net9.0/shorthand.dll
+/home/angelica/c#_console/basics/if_else/shorthand/bin/Debug/net9.0/shorthand.pdb
+/home/angelica/c#_console/basics/if_else/shorthand/obj/Debug/net9.0/shorthand.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/basics/if_else/shorthand/obj/Debug/net9.0/shorthand.AssemblyInfoInputs.cache
+/home/angelica/c#_console/basics/if_else/shorthand/obj/Debug/net9.0/shorthand.AssemblyInfo.cs
+/home/angelica/c#_console/basics/if_else/shorthand/obj/Debug/net9.0/shorthand.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/basics/if_else/shorthand/obj/Debug/net9.0/shorthand.dll
+/home/angelica/c#_console/basics/if_else/shorthand/obj/Debug/net9.0/refint/shorthand.dll
+/home/angelica/c#_console/basics/if_else/shorthand/obj/Debug/net9.0/shorthand.pdb
+/home/angelica/c#_console/basics/if_else/shorthand/obj/Debug/net9.0/shorthand.genruntimeconfig.cache
+/home/angelica/c#_console/basics/if_else/shorthand/obj/Debug/net9.0/ref/shorthand.dll

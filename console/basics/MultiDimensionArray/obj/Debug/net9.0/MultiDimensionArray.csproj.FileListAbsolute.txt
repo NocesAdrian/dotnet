@@ -1,0 +1,14 @@
+/home/angelica/c#_console/basics/MultiDimensionArray/bin/Debug/net9.0/MultiDimensionArray
+/home/angelica/c#_console/basics/MultiDimensionArray/bin/Debug/net9.0/MultiDimensionArray.deps.json
+/home/angelica/c#_console/basics/MultiDimensionArray/bin/Debug/net9.0/MultiDimensionArray.runtimeconfig.json
+/home/angelica/c#_console/basics/MultiDimensionArray/bin/Debug/net9.0/MultiDimensionArray.dll
+/home/angelica/c#_console/basics/MultiDimensionArray/bin/Debug/net9.0/MultiDimensionArray.pdb
+/home/angelica/c#_console/basics/MultiDimensionArray/obj/Debug/net9.0/MultiDimensionArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/basics/MultiDimensionArray/obj/Debug/net9.0/MultiDimensionArray.AssemblyInfoInputs.cache
+/home/angelica/c#_console/basics/MultiDimensionArray/obj/Debug/net9.0/MultiDimensionArray.AssemblyInfo.cs
+/home/angelica/c#_console/basics/MultiDimensionArray/obj/Debug/net9.0/MultiDimensionArray.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/basics/MultiDimensionArray/obj/Debug/net9.0/MultiDimensionArray.dll
+/home/angelica/c#_console/basics/MultiDimensionArray/obj/Debug/net9.0/refint/MultiDimensionArray.dll
+/home/angelica/c#_console/basics/MultiDimensionArray/obj/Debug/net9.0/MultiDimensionArray.pdb
+/home/angelica/c#_console/basics/MultiDimensionArray/obj/Debug/net9.0/MultiDimensionArray.genruntimeconfig.cache
+/home/angelica/c#_console/basics/MultiDimensionArray/obj/Debug/net9.0/ref/MultiDimensionArray.dll

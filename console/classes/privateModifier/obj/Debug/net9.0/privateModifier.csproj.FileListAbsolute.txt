@@ -1,0 +1,14 @@
+/home/angelica/c#_console/classes/privateModifier/bin/Debug/net9.0/privateModifier
+/home/angelica/c#_console/classes/privateModifier/bin/Debug/net9.0/privateModifier.deps.json
+/home/angelica/c#_console/classes/privateModifier/bin/Debug/net9.0/privateModifier.runtimeconfig.json
+/home/angelica/c#_console/classes/privateModifier/bin/Debug/net9.0/privateModifier.dll
+/home/angelica/c#_console/classes/privateModifier/bin/Debug/net9.0/privateModifier.pdb
+/home/angelica/c#_console/classes/privateModifier/obj/Debug/net9.0/privateModifier.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/classes/privateModifier/obj/Debug/net9.0/privateModifier.AssemblyInfoInputs.cache
+/home/angelica/c#_console/classes/privateModifier/obj/Debug/net9.0/privateModifier.AssemblyInfo.cs
+/home/angelica/c#_console/classes/privateModifier/obj/Debug/net9.0/privateModifier.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/classes/privateModifier/obj/Debug/net9.0/privateModifier.dll
+/home/angelica/c#_console/classes/privateModifier/obj/Debug/net9.0/refint/privateModifier.dll
+/home/angelica/c#_console/classes/privateModifier/obj/Debug/net9.0/privateModifier.pdb
+/home/angelica/c#_console/classes/privateModifier/obj/Debug/net9.0/privateModifier.genruntimeconfig.cache
+/home/angelica/c#_console/classes/privateModifier/obj/Debug/net9.0/ref/privateModifier.dll

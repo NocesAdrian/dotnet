@@ -1,0 +1,14 @@
+/home/angelica/c#_console/classes/enum/bin/Debug/net9.0/enum
+/home/angelica/c#_console/classes/enum/bin/Debug/net9.0/enum.deps.json
+/home/angelica/c#_console/classes/enum/bin/Debug/net9.0/enum.runtimeconfig.json
+/home/angelica/c#_console/classes/enum/bin/Debug/net9.0/enum.dll
+/home/angelica/c#_console/classes/enum/bin/Debug/net9.0/enum.pdb
+/home/angelica/c#_console/classes/enum/obj/Debug/net9.0/enum.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/classes/enum/obj/Debug/net9.0/enum.AssemblyInfoInputs.cache
+/home/angelica/c#_console/classes/enum/obj/Debug/net9.0/enum.AssemblyInfo.cs
+/home/angelica/c#_console/classes/enum/obj/Debug/net9.0/enum.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/classes/enum/obj/Debug/net9.0/enum.dll
+/home/angelica/c#_console/classes/enum/obj/Debug/net9.0/refint/enum.dll
+/home/angelica/c#_console/classes/enum/obj/Debug/net9.0/enum.pdb
+/home/angelica/c#_console/classes/enum/obj/Debug/net9.0/enum.genruntimeconfig.cache
+/home/angelica/c#_console/classes/enum/obj/Debug/net9.0/ref/enum.dll

@@ -1,0 +1,14 @@
+/home/angelica/c#_console/methods/nameArguments/obj/Debug/net9.0/nameArguments.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/methods/nameArguments/obj/Debug/net9.0/nameArguments.AssemblyInfoInputs.cache
+/home/angelica/c#_console/methods/nameArguments/obj/Debug/net9.0/nameArguments.AssemblyInfo.cs
+/home/angelica/c#_console/methods/nameArguments/obj/Debug/net9.0/nameArguments.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/methods/nameArguments/bin/Debug/net9.0/nameArguments
+/home/angelica/c#_console/methods/nameArguments/bin/Debug/net9.0/nameArguments.deps.json
+/home/angelica/c#_console/methods/nameArguments/bin/Debug/net9.0/nameArguments.runtimeconfig.json
+/home/angelica/c#_console/methods/nameArguments/bin/Debug/net9.0/nameArguments.dll
+/home/angelica/c#_console/methods/nameArguments/bin/Debug/net9.0/nameArguments.pdb
+/home/angelica/c#_console/methods/nameArguments/obj/Debug/net9.0/nameArguments.dll
+/home/angelica/c#_console/methods/nameArguments/obj/Debug/net9.0/refint/nameArguments.dll
+/home/angelica/c#_console/methods/nameArguments/obj/Debug/net9.0/nameArguments.pdb
+/home/angelica/c#_console/methods/nameArguments/obj/Debug/net9.0/nameArguments.genruntimeconfig.cache
+/home/angelica/c#_console/methods/nameArguments/obj/Debug/net9.0/ref/nameArguments.dll

@@ -1,0 +1,14 @@
+/home/angelica/c#_console/basics/foreach/bin/Debug/net9.0/foreach
+/home/angelica/c#_console/basics/foreach/bin/Debug/net9.0/foreach.deps.json
+/home/angelica/c#_console/basics/foreach/bin/Debug/net9.0/foreach.runtimeconfig.json
+/home/angelica/c#_console/basics/foreach/bin/Debug/net9.0/foreach.dll
+/home/angelica/c#_console/basics/foreach/bin/Debug/net9.0/foreach.pdb
+/home/angelica/c#_console/basics/foreach/obj/Debug/net9.0/foreach.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/basics/foreach/obj/Debug/net9.0/foreach.AssemblyInfoInputs.cache
+/home/angelica/c#_console/basics/foreach/obj/Debug/net9.0/foreach.AssemblyInfo.cs
+/home/angelica/c#_console/basics/foreach/obj/Debug/net9.0/foreach.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/basics/foreach/obj/Debug/net9.0/foreach.dll
+/home/angelica/c#_console/basics/foreach/obj/Debug/net9.0/refint/foreach.dll
+/home/angelica/c#_console/basics/foreach/obj/Debug/net9.0/foreach.pdb
+/home/angelica/c#_console/basics/foreach/obj/Debug/net9.0/foreach.genruntimeconfig.cache
+/home/angelica/c#_console/basics/foreach/obj/Debug/net9.0/ref/foreach.dll

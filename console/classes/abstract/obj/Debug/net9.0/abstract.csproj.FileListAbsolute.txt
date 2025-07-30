@@ -1,0 +1,14 @@
+/home/angelica/c#_console/classes/abstract/obj/Debug/net9.0/abstract.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/classes/abstract/obj/Debug/net9.0/abstract.AssemblyInfoInputs.cache
+/home/angelica/c#_console/classes/abstract/obj/Debug/net9.0/abstract.AssemblyInfo.cs
+/home/angelica/c#_console/classes/abstract/obj/Debug/net9.0/abstract.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/classes/abstract/bin/Debug/net9.0/abstract
+/home/angelica/c#_console/classes/abstract/bin/Debug/net9.0/abstract.deps.json
+/home/angelica/c#_console/classes/abstract/bin/Debug/net9.0/abstract.runtimeconfig.json
+/home/angelica/c#_console/classes/abstract/bin/Debug/net9.0/abstract.dll
+/home/angelica/c#_console/classes/abstract/bin/Debug/net9.0/abstract.pdb
+/home/angelica/c#_console/classes/abstract/obj/Debug/net9.0/abstract.dll
+/home/angelica/c#_console/classes/abstract/obj/Debug/net9.0/refint/abstract.dll
+/home/angelica/c#_console/classes/abstract/obj/Debug/net9.0/abstract.pdb
+/home/angelica/c#_console/classes/abstract/obj/Debug/net9.0/abstract.genruntimeconfig.cache
+/home/angelica/c#_console/classes/abstract/obj/Debug/net9.0/ref/abstract.dll

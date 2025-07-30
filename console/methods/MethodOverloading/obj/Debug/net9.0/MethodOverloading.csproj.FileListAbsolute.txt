@@ -1,0 +1,14 @@
+/home/angelica/c#_console/methods/MethodOverloading/bin/Debug/net9.0/MethodOverloading
+/home/angelica/c#_console/methods/MethodOverloading/bin/Debug/net9.0/MethodOverloading.deps.json
+/home/angelica/c#_console/methods/MethodOverloading/bin/Debug/net9.0/MethodOverloading.runtimeconfig.json
+/home/angelica/c#_console/methods/MethodOverloading/bin/Debug/net9.0/MethodOverloading.dll
+/home/angelica/c#_console/methods/MethodOverloading/bin/Debug/net9.0/MethodOverloading.pdb
+/home/angelica/c#_console/methods/MethodOverloading/obj/Debug/net9.0/MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/c#_console/methods/MethodOverloading/obj/Debug/net9.0/MethodOverloading.AssemblyInfoInputs.cache
+/home/angelica/c#_console/methods/MethodOverloading/obj/Debug/net9.0/MethodOverloading.AssemblyInfo.cs
+/home/angelica/c#_console/methods/MethodOverloading/obj/Debug/net9.0/MethodOverloading.csproj.CoreCompileInputs.cache
+/home/angelica/c#_console/methods/MethodOverloading/obj/Debug/net9.0/MethodOverloading.dll
+/home/angelica/c#_console/methods/MethodOverloading/obj/Debug/net9.0/refint/MethodOverloading.dll
+/home/angelica/c#_console/methods/MethodOverloading/obj/Debug/net9.0/MethodOverloading.pdb
+/home/angelica/c#_console/methods/MethodOverloading/obj/Debug/net9.0/MethodOverloading.genruntimeconfig.cache
+/home/angelica/c#_console/methods/MethodOverloading/obj/Debug/net9.0/ref/MethodOverloading.dll
