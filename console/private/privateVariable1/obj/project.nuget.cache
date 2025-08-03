@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4e5EAuMEuNQ=",
+  "success": true,
+  "projectFilePath": "/home/angelica/dotnet/console/private/privateVariable1/privateVariable1.csproj",
+  "expectedPackageFiles": [
+    "/home/angelica/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.7/microsoft.aspnetcore.app.ref.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

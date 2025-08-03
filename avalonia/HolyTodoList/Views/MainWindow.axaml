@@ -1,0 +1,53 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:HolyTodoList.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="HolyTodoList.Views.MainWindow"
+        x:DataType="vm:MainWindowViewModel"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="HolyTodoList">
+
+    <Design.DataContext>
+        <!-- This only sets the DataContext for the previewer in an IDE,
+             to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+        <vm:MainWindowViewModel/>
+    </Design.DataContext>
+    <Grid RowDefinitions="auto, auto, auto" >
+
+        <StackPanel Grid.Row="0">
+            <TextBlock 
+                Text="{Binding Title}"
+                HorizontalAlignment="Center"    
+                FontSize="24"
+                Margin="0, 50, 0, 0"
+            />
+        </StackPanel>
+
+        <Grid Grid.Row="1" ColumnDefinitions="300, auto" HorizontalAlignment="Center">
+            <TextBox 
+                Grid.Column="0"
+                Margin="5"
+            />
+            <Button 
+                Grid.Column="1"
+                Margin="5"
+                Padding="12"
+                Content="{Binding EnterButton}"
+            />
+        </Grid>
+
+        <StackPanel Grid.Row="3" HorizontalAlignment="Center" Margin="0, 50, 0, 0">
+            <Grid ColumnDefinitions="300, auto">
+                <TextBlock Grid.Column="0" Text="{Binding TodoContent}" />
+                <Button 
+                    Grid.Column="1"
+                    Content="{Binding DeleteButton}"
+                />
+            </Grid>
+        </StackPanel>
+
+    </Grid>
+
+</Window>
